@@ -1,2 +1,2 @@
-# <Domain Name> in Python
+# [Domain Name] in Python
 ## Packages and Third Party Wrappers
