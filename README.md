@@ -1,4 +1,4 @@
-# Python-Packages-List
+# Python Packages, Frameworks and Third Part Wrappers
 
 This repository is to list all the useful Python Packages, Frameworks and Third Party Wrappers for all domains.
 It would help developers find the right frameworks and also get alternatives which are are to find.
