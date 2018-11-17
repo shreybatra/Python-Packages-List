@@ -6,3 +6,4 @@
 3. [Keras](https://keras.io/)
 4. [Theano](http://deeplearning.net/software/theano/)
 5. [Pandas](https://pandas.pydata.org/)
+6. [Pytorch](https://pytorch.org/)
