@@ -7,3 +7,4 @@
 4. [lxml](https://lxml.de/)
 5. [Selenium](https://www.seleniumhq.org/)
 6. [Pyspider](http://docs.pyspider.org/en/latest/)
+7. [PhantomJs](http://phantomjs.org/documentation/)
